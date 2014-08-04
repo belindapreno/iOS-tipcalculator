@@ -1,2 +1,2 @@
-iOS Tip Calculator
+###iOS Tip Calculator
 Author: Belinda Preno
